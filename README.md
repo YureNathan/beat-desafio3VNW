@@ -14,4 +14,4 @@ CODESANDBOX
 ### Link do Projeto 👇
 https://ny32hj.csb.app/
 
-## Muito Obriagdo! Sugestões são bem vindas!
+## Muito Obrigado! Sugestões são bem vindas!
